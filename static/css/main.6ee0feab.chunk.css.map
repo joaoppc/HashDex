@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,aAAc,CACd,iBAAkB,CAElB,wBAEF","file":"main.6ee0feab.chunk.css","sourcesContent":[".App {\n  height: 2000px;\n  text-align: center;\n  \n  background-color:dimgray;\n  \n}\n\n.App-lista{\n\n\n  \n}\n.App-order{\n  \n\n  \n}\n.App-chart{\n  \n  \n}\n.App-orderchart{\n\n  \n}\n\n\n"]}
