@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/hashdex/static/css/main.4dfeaee0.chunk.css",
-    "main.js": "/hashdex/static/js/main.7973a2ec.chunk.js",
-    "main.js.map": "/hashdex/static/js/main.7973a2ec.chunk.js.map",
+    "main.css": "/hashdex/static/css/main.24d02a4e.chunk.css",
+    "main.js": "/hashdex/static/js/main.d93c5e60.chunk.js",
+    "main.js.map": "/hashdex/static/js/main.d93c5e60.chunk.js.map",
     "runtime-main.js": "/hashdex/static/js/runtime-main.4e6727da.js",
     "runtime-main.js.map": "/hashdex/static/js/runtime-main.4e6727da.js.map",
     "xlsx.js": "/hashdex/static/js/xlsx.238f980e.chunk.js",
     "xlsx.js.map": "/hashdex/static/js/xlsx.238f980e.chunk.js.map",
     "static/js/3.56193154.chunk.js": "/hashdex/static/js/3.56193154.chunk.js",
     "static/js/3.56193154.chunk.js.map": "/hashdex/static/js/3.56193154.chunk.js.map",
-    "static/js/4.b2befac7.chunk.js": "/hashdex/static/js/4.b2befac7.chunk.js",
-    "static/js/4.b2befac7.chunk.js.map": "/hashdex/static/js/4.b2befac7.chunk.js.map",
+    "static/js/4.5d3fcec9.chunk.js": "/hashdex/static/js/4.5d3fcec9.chunk.js",
+    "static/js/4.5d3fcec9.chunk.js.map": "/hashdex/static/js/4.5d3fcec9.chunk.js.map",
     "static/js/5.fe69be6f.chunk.js": "/hashdex/static/js/5.fe69be6f.chunk.js",
     "static/js/5.fe69be6f.chunk.js.map": "/hashdex/static/js/5.fe69be6f.chunk.js.map",
     "static/js/6.ac649ba7.chunk.js": "/hashdex/static/js/6.ac649ba7.chunk.js",
     "static/js/6.ac649ba7.chunk.js.map": "/hashdex/static/js/6.ac649ba7.chunk.js.map",
     "index.html": "/hashdex/index.html",
-    "static/css/main.4dfeaee0.chunk.css.map": "/hashdex/static/css/main.4dfeaee0.chunk.css.map",
-    "static/js/4.b2befac7.chunk.js.LICENSE.txt": "/hashdex/static/js/4.b2befac7.chunk.js.LICENSE.txt",
+    "static/css/main.24d02a4e.chunk.css.map": "/hashdex/static/css/main.24d02a4e.chunk.css.map",
+    "static/js/4.5d3fcec9.chunk.js.LICENSE.txt": "/hashdex/static/js/4.5d3fcec9.chunk.js.LICENSE.txt",
     "static/js/5.fe69be6f.chunk.js.LICENSE.txt": "/hashdex/static/js/5.fe69be6f.chunk.js.LICENSE.txt",
     "static/js/6.ac649ba7.chunk.js.LICENSE.txt": "/hashdex/static/js/6.ac649ba7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e6727da.js",
-    "static/js/4.b2befac7.chunk.js",
-    "static/css/main.4dfeaee0.chunk.css",
-    "static/js/main.7973a2ec.chunk.js"
+    "static/js/4.5d3fcec9.chunk.js",
+    "static/css/main.24d02a4e.chunk.css",
+    "static/js/main.d93c5e60.chunk.js"
   ]
 }
